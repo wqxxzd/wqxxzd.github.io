@@ -14,7 +14,7 @@
         }
     },
     "host": "pokeapi.co",
-    "basePath": "/api//v2",
+    "basePath": "/api/v2",
     "tags": [
         {
             "name": "pet",
