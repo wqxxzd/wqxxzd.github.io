@@ -291,7 +291,7 @@
                 "deprecated": true
             }
         },
-        "/pokemon-color/{id or name}": {
+        "/pokemon-color/{petId}": {
             "get": {
                 "tags": [
                     "pet"
@@ -305,7 +305,7 @@
                 ],
                 "parameters": [
                     {
-                        "name": "id or name",
+                        "name": "petId",
                         "in": "path",
                         "description": "ID of pet to return",
                         "required": true,
