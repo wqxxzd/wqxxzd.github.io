@@ -13,8 +13,8 @@
             "url": "http://www.apache.org/licenses/LICENSE-2.0.html"
         }
     },
-    "host": "pokeapi.co/api/",
-    "basePath": "/v2",
+    "host": "pokeapi.co",
+    "basePath": "/api//v2",
     "tags": [
         {
             "name": "pet",
