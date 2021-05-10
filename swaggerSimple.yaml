@@ -16,8 +16,8 @@ paths:
         - in: path
           name: idOrName
           required: true
-          type: integer
-          description: Parameter description in Markdown.
+          type: string
+          description: Input the id/name.
       produces:
         - application/json
       responses:
