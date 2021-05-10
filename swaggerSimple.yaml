@@ -1,0 +1,25 @@
+swagger: "2.0"
+info:
+  title: Simple Swagger Documentation for Pokemon API
+  description: API description in Markdown.
+  version: 1.0.0
+host: pokeapi.co/api
+basePath: /v2
+schemes:
+  - https
+paths:
+  /pokemon/{idOrName}/:
+    get:
+      summary: Get the infomation for a pokemon
+      description: Pokémon are the creatures that inhabit the world of the Pokémon games. They can be caught using Pokéballs and trained by battling with other Pokémon. Each Pokémon belongs to a specific species but may take on a variant which makes it differ from other Pokémon of the same species, such as base stats, available abilities and typings. See Bulbapedia for greater detail.
+      parameters:
+        - in: path
+          name: idOrName
+          required: true
+          type: integer
+          description: Parameter description in Markdown.
+      produces:
+        - application/json
+      responses:
+        200:
+          description: OK
