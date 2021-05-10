@@ -20,6 +20,7 @@ paths:
           description: Input the id/name.
       produces:
         - application/json
+        - application/xml
       responses:
         200:
           description: OK
