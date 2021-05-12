@@ -16,7 +16,7 @@
       "description": "Everything about your Pokemon",
       "externalDocs": {
         "description": "Find out more",
-        "url": "http://swagger.io"
+        "url": "https://pokeapi.co/docs/v2#pokemon-section"
       }
     }
   ],
