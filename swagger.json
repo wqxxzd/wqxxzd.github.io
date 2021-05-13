@@ -3,7 +3,7 @@
   "info": {
     "title": "Simple Swagger Documentation for Pokemon API",
     "description": "This is the demo API",
-    "version": "1.0.5"
+    "version": "1.1.0"
   },
   "host": "pokeapi.co/api",
   "basePath": "/v2",
