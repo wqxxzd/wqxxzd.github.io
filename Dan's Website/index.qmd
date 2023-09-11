@@ -2,6 +2,6 @@
 title: "Dan's Website"
 ---
 
-This is a Quarto website.
+Please click About for introduction.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
