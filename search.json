@@ -4,13 +4,13 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "Hi, this is Dan, an MDS Vancouver student from UBC. Feel free to connect me on linkedin."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Dan’s Website",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Please click About for introduction.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   }
 ]
